@@ -23,7 +23,7 @@ a:hover {
 
 /* Section Styles */
 
-.main-nav {
+.link-selector {
   width: 100%;
   background: #2a9d8f;
   min-height: 30px;
@@ -129,7 +129,7 @@ header .profile-image:hover {
   background-color: #e9c46a;
   color:#264653;
 }
-.card {
+.attributecards {
   margin: 30px;
   padding: 20px 40px 40px;
   max-width: 500px;
@@ -139,7 +139,7 @@ header .profile-image:hover {
   border-radius: 6px;
   transition: all .5s;
 }
-.card:hover {
+.attributecards:hover {
   border-color: #8283d6;
 }
 
